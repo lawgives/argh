@@ -1,0 +1,893 @@
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:10:10 +0000
+Cannot render console from 24.6.30.102! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.1ms | Allocations: 331)
+Completed 200 OK in 12ms (Views: 10.5ms | Allocations: 1565)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:11:09 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 9.2ms | Allocations: 291)
+Completed 200 OK in 12ms (Views: 11.1ms | Allocations: 1522)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:11:12 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.1ms | Allocations: 181)
+Completed 200 OK in 15ms (Views: 13.8ms | Allocations: 700)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:11:16 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 8)
+Completed 200 OK in 1ms (Views: 0.8ms | Allocations: 214)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:11:17 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.6ms | Allocations: 8)
+Completed 200 OK in 1ms (Views: 1.1ms | Allocations: 213)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:14:21 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.1ms | Allocations: 291)
+Completed 200 OK in 10ms (Views: 8.8ms | Allocations: 1522)
+
+
+Started GET "/" for 24.6.30.102 at 2021-02-05 20:14:24 +0000
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/deployer/.bundle/ruby/2.7.0/gems/railties-6.1.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.1ms | Allocations: 178)
+Completed 200 OK in 9ms (Views: 8.0ms | Allocations: 695)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:15:31 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.9ms | Allocations: 917)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:15:34 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 173)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:15:34 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:15:35 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:15:58 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:00 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:00 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:01 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 0ms (Views: 0.3ms | Allocations: 175)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:02 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:02 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 0ms (Views: 0.3ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:03 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 172)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:03 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 173)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:04 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 173)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:05 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 0ms (Views: 0.3ms | Allocations: 173)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:43 +0000
+Processing by SessionController#index as HTML
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.7ms | Allocations: 301)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:45 +0000
+Processing by SessionController#index as HTML
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 186)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:45 +0000
+Processing by SessionController#index as HTML
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 186)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:16:46 +0000
+Processing by SessionController#index as HTML
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 189)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:18:56 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.8ms | Allocations: 313)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:19:07 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 195)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:19:12 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+session[:testing]=
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 196)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:19:40 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:19:40 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 321)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:19:43 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:19:43 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:20:53 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:20:53 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 402)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:21:37 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:21:37 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 2ms (Views: 1.0ms | Allocations: 324)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:21:49 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:21:49 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:21:50 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:21:50 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 209)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:21:51 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:21:51 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:21:52 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:21:52 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 207)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:22:34 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:22:34 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.6ms | Allocations: 900)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:37 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:30:37 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 5ms (Views: 1.6ms | Allocations: 973)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:45 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:30:37 +0000
+After: session[:testing]=2021-02-05 20:30:45 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 353)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:47 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:30:45 +0000
+After: session[:testing]=2021-02-05 20:30:47 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 333)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:49 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:30:47 +0000
+After: session[:testing]=2021-02-05 20:30:49 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 351)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:51 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:30:49 +0000
+After: session[:testing]=2021-02-05 20:30:51 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 339)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:30:53 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:30:51 +0000
+After: session[:testing]=2021-02-05 20:30:53 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 341)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:40:49 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:40:49 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 6ms (Views: 1.8ms | Allocations: 980)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:40:55 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:40:55 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 247)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:40:56 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:40:55 +0000
+After: session[:testing]=2021-02-05 20:40:56 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 335)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:40:56 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:40:56 +0000
+After: session[:testing]=2021-02-05 20:40:56 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 331)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:46 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:46 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 3ms (Views: 2.4ms | Allocations: 921)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:47 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:47 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 238)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:48 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:48 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 237)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:49 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:49 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 237)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:56 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:56 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 194)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:45:58 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:45:58 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:46:28 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:46:28 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:46:29 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:46:29 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:14 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:48:14 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.7ms | Allocations: 899)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:17 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:48:17 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:18 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:48:18 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:18 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:48:18 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:31 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:48:31 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 6ms (Views: 1.7ms | Allocations: 973)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:33 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:31 +0000
+After: session[:testing]=2021-02-05 20:48:33 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 343)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:33 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:33 +0000
+After: session[:testing]=2021-02-05 20:48:33 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 339)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:34 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:33 +0000
+After: session[:testing]=2021-02-05 20:48:34 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 341)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:34 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:34 +0000
+After: session[:testing]=2021-02-05 20:48:34 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 345)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:37 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:34 +0000
+After: session[:testing]=2021-02-05 20:48:37 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 3ms (Views: 1.0ms | Allocations: 331)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:38 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:37 +0000
+After: session[:testing]=2021-02-05 20:48:38 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 331)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:48:39 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=2021-02-05 20:48:38 +0000
+After: session[:testing]=2021-02-05 20:48:39 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 345)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:42 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:42 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.6ms | Allocations: 924)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:43 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:43 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 248)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:44 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:44 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 252)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:46 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:46 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 240)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:46 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:46 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 244)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:49:48 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:49:48 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 254)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:50:01 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:50:01 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 2ms (Views: 1.1ms | Allocations: 194)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:50:18 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:50:18 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.6ms | Allocations: 887)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:50:19 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:50:19 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 207)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:50:20 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:50:20 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:50:21 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:50:21 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:10 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:10 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 3ms (Views: 1.7ms | Allocations: 900)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:11 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:11 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 2ms (Views: 0.7ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:11 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:11 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:12 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:12 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.6ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:13 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:13 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:51:13 +0000
+Processing by SessionController#index as HTML
+session.loaded?=false
+Before: session[:testing]=
+After: session[:testing]=2021-02-05 20:51:13 +0000
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 206)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:52:29 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 1.0ms | Allocations: 307)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:52:33 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 193)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:52:34 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:52:34 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:52:34 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:54:36 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.9ms | Allocations: 885)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:54:37 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 20:54:37 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:00:58 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.7ms | Allocations: 885)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:00:59 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.5ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:01:01 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:01:01 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.4ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:03:57 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:03:59 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 2)
+Completed 200 OK in 1ms (Views: 0.3ms | Allocations: 191)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:06:41 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 3ms (Views: 2.1ms | Allocations: 885)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:07:05 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.9ms | Allocations: 885)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:07:51 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 2.1ms | Allocations: 885)
+
+
+Started GET "/session/index" for 24.6.30.102 at 2021-02-05 21:08:55 +0000
+Processing by SessionController#index as HTML
+  Rendering text template
+  Rendered text template (Duration: 0.0ms | Allocations: 3)
+Completed 200 OK in 2ms (Views: 1.5ms | Allocations: 885)
+
+
